@@ -1,0 +1,29 @@
+#nav{
+    display: flex;
+   justify-content: space-between;
+    background-color:rgba(19, 0, 95, 0.925);
+    font-size: 30px;
+    border-radius: 10px;
+   
+    
+}
+#nav+div{
+    margin-top: -50px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+#bar{
+    display: flex;
+    justify-content: space-around;
+    
+  
+   
+}
+#bar>div{
+    margin: 30px;
+    margin-left: 30px;
+   
+}
